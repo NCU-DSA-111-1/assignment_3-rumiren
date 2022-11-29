@@ -1,7 +1,9 @@
 # DS assignment 4
 
-In this assignment, I program for comparing the Huffman coding and the Arithmetic coding. 
+In this assignment, I program for comparing the Huffman coding and the Arithmetic coding.
+
 Source code:
+
 The Huffman coding:
 
 https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/?fbclid=IwAR2yLbUGOsTphC2B5MDwojk0q_NsvV6Kg2RHd7xZPKrNcN4a6OYtxUypVBg
